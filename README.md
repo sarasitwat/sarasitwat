@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sarasitwat
-- 👀 I’m interested in nothing much
-- 🌱 I’m currently learning a data science course on coursera
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ... just dont
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ..
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... 
 
 <!---
 sarasitwat/sarasitwat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
